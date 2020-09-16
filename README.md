@@ -21,6 +21,6 @@ Database setup:
 - engine: MySQL
 - schema: videos
 - username: videos
-- password: video
+- password: videos
 
 The project uses Hibernate with code-first approach.
